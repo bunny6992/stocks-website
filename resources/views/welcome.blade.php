@@ -200,7 +200,7 @@
                             <div class="row"  style="margin-bottom: 4%">
                                 <div class="col-md-12">
                                     <h2 style="display: inline-block; cursor: pointer;" @click="getTableForSignal('mostactive')">
-                                        <span class="label label-primary">Top Actice</span>
+                                        <span class="label label-primary">Top Active</span>
                                     </h2>
                                     <h2 style="display: inline-block; cursor: pointer;" @click="getTableForSignal('gainers')">
                                         <span class="label label-success">Top Gainers</span>
