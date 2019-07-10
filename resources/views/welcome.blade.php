@@ -209,7 +209,7 @@
                                         <span class="label label-danger">Top Losers</span>
                                     </h2>
                                     <h2 style="display: inline-block; cursor: pointer;" @click="getTableForSignal('infocus')">
-                                        <span class="label label-warning">Top Infocus</span>
+                                        <span class="label label-warning">In the news</span>
                                     </h2>
                                 </div>
                             </div>
