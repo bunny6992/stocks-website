@@ -27,7 +27,7 @@
         "@progress/kendo-treemap-vue-wrapper": "^2018.3.1025",
         "@progress/kendo-ui": "^2018.3.1129",
         "apexcharts": "^2.1.5",
-        "bootstrap-vue": "^2.0.0-rc.11",
+        "bootstrap-vue": "^2.0.0-rc.12",
         "gridstack": "^0.4.0",
         "interactjs": "^1.3.4",
         "vue-apexcharts": "^1.2.2",
